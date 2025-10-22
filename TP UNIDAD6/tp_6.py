@@ -109,3 +109,4 @@ c = float(input("Ingrese el tercer número: "))
 print("El promedio es:", round(calcular_promedio(a, b, c), 2))
 
 
+    
